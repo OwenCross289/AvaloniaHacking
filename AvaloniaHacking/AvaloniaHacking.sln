@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaHacking", "AvaloniaHacking\AvaloniaHacking.csproj", "{89FC7638-C787-4914-9DF7-A943CB5EB154}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaHackingApp", "AvaloniaHackingApp\AvaloniaHackingApp.csproj", "{1580ECDE-1BDE-45CA-AE38-DD16A5D5ACAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{89FC7638-C787-4914-9DF7-A943CB5EB154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{89FC7638-C787-4914-9DF7-A943CB5EB154}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{89FC7638-C787-4914-9DF7-A943CB5EB154}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{89FC7638-C787-4914-9DF7-A943CB5EB154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1580ECDE-1BDE-45CA-AE38-DD16A5D5ACAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1580ECDE-1BDE-45CA-AE38-DD16A5D5ACAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1580ECDE-1BDE-45CA-AE38-DD16A5D5ACAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1580ECDE-1BDE-45CA-AE38-DD16A5D5ACAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
